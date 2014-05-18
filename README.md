@@ -38,4 +38,4 @@ server can use different threadpools to handle requests;
 support async call & group calls;  
 add connection protect,avoid create connection again and again;  
 
-more detail you can visit https://code.google.com/p/nfs-rpc/
+more details you can visit https://code.google.com/p/nfs-rpc/
